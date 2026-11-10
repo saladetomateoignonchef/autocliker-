@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AutoClicker" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="SectionTitle" parent="TextAppearance.Material3.TitleMedium" />
+</resources>
